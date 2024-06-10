@@ -1,9 +1,9 @@
 # Weather Forecast Web Application with Dynamic UI
 
-## My role:
+## My role
 Front-end Developer
 
-## Project description:
+## Project description
 - Developed a responsive weather forecast web application using React and Material-UI.
 - Implemented dynamic UI adjustments based on screen size for enhanced user experience.
 - Created a horizontal scrollable 5-day forecast section inspired by Apple's website shop page.
